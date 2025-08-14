@@ -1,1 +1,1 @@
-"This is second file in b1 branch" 
+"This file is pulled from the branch b1" 
